@@ -8,7 +8,7 @@ In e-commerce, tracking overall conversion rates is not enough. Store managers n
 - **Python (Pandas & Seaborn):** Processed the resulting dataset and created an advanced visualization utilizing `hue` to combine two metrics simultaneously—drop-off percentage and absolute user volume.
 
 ## 📊 Key Visualization & Insights
-![Drop-off Analysis by Brand](BAR_GRAPH)
+![Drop-off Analysis by Brand](image.png)
 
 - **High Ratio vs. High Volume:** While niche brands like 'Cordiant' exhibit a high drop-off percentage (~60%), the absolute volume of lost users is small. Conversely, major brands like **Apple and Samsung** show a moderate percentage (~30-35%), but account for the highest **absolute volume** of drop-offs (nearly 800 users).
 - **Product Strategy:** Focusing optimization efforts on high-volume flagship brands yields a significantly higher ROI than targeting niche low-traffic items.
